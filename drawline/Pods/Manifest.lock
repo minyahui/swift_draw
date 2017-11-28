@@ -1,0 +1,15 @@
+PODS:
+  - HandyJSON (4.0.0-beta.1)
+  - SwiftyJSON (4.0.0-alpha.1)
+
+DEPENDENCIES:
+  - HandyJSON (~> 4.0.0-beta.1)
+  - SwiftyJSON (~> 4.0.0-alpha.1)
+
+SPEC CHECKSUMS:
+  HandyJSON: 428bb18e2c34c2a77361accebf90cf64e4f74118
+  SwiftyJSON: dc88934f85fb50b263b1632b9cbad3402505783e
+
+PODFILE CHECKSUM: 1d4eb1902602a7de6ff6652e95ade34c5958fbd9
+
+COCOAPODS: 1.2.1.beta.1
